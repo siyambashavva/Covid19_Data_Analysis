@@ -1,1 +1,2 @@
-# Covid19_Data_Analysis
+# Covid19 Data Analysis
+## Covid19 Veri Analizi
